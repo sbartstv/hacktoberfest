@@ -368,3 +368,9 @@
 - Place: Australia
 - Bio: Programmer
 - Github: [Jack Noordhuis](https://github.com/JackNoordhuis)
+
+#### Name: [Cliff Baldridge](https://github.com/sbartstv)
+- Place: USA
+- Bio: Developer
+- Github: [sbartstv](https://github.com/sbartstv)
+
